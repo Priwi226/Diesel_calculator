@@ -1,0 +1,26 @@
+Mann muss par sachen duch pip / pip3 instalieren dan leuft es - einfach terminal nutzen 
+
+tkinter
+https://docs.python.org/3/library/tkinter.html
+
+tkcalendar
+https://tkcalendar.readthedocs.io/en/stable/
+
+subproces
+https://docs.python.org/3/library/subprocess.html
+
+sqlite3  
+https://docs.python.org/3/library/sqlite3.html
+
+PyPDF2
+https://pypdf2.readthedocs.io/en/3.x/
+
+re
+https://docs.python.org/3/library/re.html
+
+csv
+https://docs.python.org/3/library/csv.html
+
+
+collections
+https://docs.python.org/3/library/collections.html
